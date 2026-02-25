@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+duckduckgo-search
+requests
+beautifulsoup4
+python-dotenv
+crewai
+langchain
+openai
