@@ -1,5 +1,7 @@
 # 🔍 Person Finder Tool
 
+[Demo Video Link](https://drive.google.com/file/d/1HDgvKsAPu519X2a6YJ71RuxpGjLx8buR/view?usp=sharing)
+
 An AI-powered intelligence tool that finds key personnel at any company by designation. It cross-validates results across multiple search engines and uses LLM-based extraction for high-confidence, structured output.
 
 ## Workflow
